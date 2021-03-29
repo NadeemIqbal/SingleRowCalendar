@@ -1,4 +1,6 @@
 # SingleRowCalendar
+## FEATURES and Library is same as [![miso01/SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)] but minSdkVersion is now 17 instead of 21
+
 With this library, you aren't attached to library built-in UI. You can create really beautiful and customizable UI and use selection features without hands getting dirty with RecyclerView and SelectionTracker.
 
 [![Download](https://api.bintray.com/packages/michalsvec/android-libraries/single-row-calednar/images/download.svg) ](https://bintray.com/michalsvec/android-libraries/single-row-calednar/_latestVersion)
