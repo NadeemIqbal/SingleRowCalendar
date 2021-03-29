@@ -3,10 +3,7 @@
 
 With this library, you aren't attached to library built-in UI. You can create really beautiful and customizable UI and use selection features without hands getting dirty with RecyclerView and SelectionTracker.
 
-[![Download](https://api.bintray.com/packages/michalsvec/android-libraries/single-row-calednar/images/download.svg) ](https://bintray.com/michalsvec/android-libraries/single-row-calednar/_latestVersion)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/miso01/SingleRowCalendar/blob/master/LICENSE)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFH6LSWRHAQ4J&source=url)
-[![Sample](https://img.shields.io/badge/Sample-Code-red)](https://github.com/miso01/SingleRowCalendar/tree/master/app/src/main)
+[![](https://jitpack.io/v/NadeemIqbal/SingleRowCalendar.svg)](https://jitpack.io/#NadeemIqbal/SingleRowCalendar)
 [![Sample](https://img.shields.io/badge/Sample-Medium%20Article-black)](https://medium.com/@misosvec01/single-row-horizontal-calendar-has-never-been-easier-6ad989fafee8)
 
 <img src="presentation_assets/special.gif" width="285"/> <img src="presentation_assets/pinkOrange.gif" width="285" /> <img src="presentation_assets/black.gif" width="285"/>
