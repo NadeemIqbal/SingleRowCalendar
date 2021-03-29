@@ -31,16 +31,16 @@ With this library, you aren't attached to library built-in UI. You can create re
 #### GRADLE 
 ```
 dependencies {
-    implementation 'com.michalsvec:single-row-calednar:1.0.0'
+   implementation 'com.github.NadeemIqbal:SingleRowCalendar:1.0.1'
 }
 ```
 
 #### MAVEN
 ```
 <dependency>
-	<groupId>com.michalsvec</groupId>
-	<artifactId>single-row-calednar</artifactId>
-	<version>1.0.0</version>
+	<groupId>com.github.NadeemIqbal</groupId>
+	<artifactId>SingleRowCalendar</artifactId>
+	<version>1.0.1</version>
 	<type>pom</type>
 </dependency>
 ```
